@@ -1,0 +1,2 @@
+Data Source=tcp:appointmentschedulingdbserver20.database.windows.net,1433;Initial Catalog=AppointmentScheduling_db;
+User Id=adminuser@appointmentschedulingdbserver20;Password=Admin123*
